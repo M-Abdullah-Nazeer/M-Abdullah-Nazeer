@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-abdullah-nazeer&show_icons=true&locale=en" alt="m-abdullah-nazeer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-nazeer&" alt="m-abdullah-nazeer" /></p>
+
+<h3 align="left">Personal Products</h3>
+<p align="left">
+<a href="https://blockblastsolverai.com/" target="blank">Block Blsat Solver AI</a>
+</p>
