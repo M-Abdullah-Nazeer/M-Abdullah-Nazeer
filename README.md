@@ -29,5 +29,5 @@
 
 <h3 align="left">Personal Products:</h3>
 <p align="left">
-<a href="https://blockblastsolverai.com/" target="blank">Block Blsat Solver AI</a>
+<a href="https://blockblastsolverai.com/" target="blank">Block Blsat Solver</a>
 </p>
